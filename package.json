@@ -1,0 +1,15 @@
+{
+  "name": "fintual",
+  "version": "1.0.0",
+  "description": "notificador de movimiento en fintual",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergio corral judas.rok@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
