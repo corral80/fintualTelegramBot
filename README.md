@@ -7,3 +7,5 @@ Se recomienda configurar un crontab que llame con nodejs el archivo app.js para 
 No se almacena ningún usuario o contraseña ya que todo está en texto plano, sin uso de BD.
 ## Solo 1 fondo
 Permite revisar solo 1 fondo, revisar el archivo app.js para la configuración inicial
+## Se debe configurar la ruta de utils donde se almacena el profit actual
+utils.js
